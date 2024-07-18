@@ -1,0 +1,10 @@
+Add oopfinals to local database using xammp
+
+Username and password (employee)
+employee
+12345
+
+
+Username and password (admin)
+admin
+12345
